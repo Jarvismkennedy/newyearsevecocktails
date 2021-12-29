@@ -5,7 +5,6 @@
   </head>
   <body>
     <h1>PDF Example with iframe</h1>
-    <iframe src="./nye.pdf" width="100%" height="500px">
-    </iframe>
+    <a href="./nye.pdf">nye menu </a>
   </body>
 </html>
